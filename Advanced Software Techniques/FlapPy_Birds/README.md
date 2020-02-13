@@ -11,13 +11,15 @@ As for me, the main idea around all this pet project was to get to know the conc
 
 ----
 
-Travis-CI:
 
-[![Travis build status](https://travis-ci.org/ElijahOzhmegov/Smake-Snake-AI-.svg?branch=master)](https://travis-ci.org/ElijahOzhmegov/Smake-Snake-AI-)
 
 AppVeyor:
 
 [![Build status](https://ci.appveyor.com/api/projects/status/k9km8fyluwwbox57?svg=true)](https://ci.appveyor.com/project/ElijahOzhmegov/smake-snake-ai)
+
+Travis-CI:
+
+[![Travis build status](https://travis-ci.org/ElijahOzhmegov/Smake-Snake-AI-.svg?branch=master)]()
 
 CodeCov:
 
