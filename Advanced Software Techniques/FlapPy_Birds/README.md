@@ -1,16 +1,10 @@
 # FlapPy Bird (A python version of Flappy Bird Game)
 
-The main idea of this project is to prove that complicated Machine Learning methods 
-and tools not always allow to reach a desired goal. 
+The main purpose of this project is to demonstrate that you can build nice games on Python using PyGame. 
 
-The first part of this project is to build an application, which outputs a controllable 
-snake game model (in different words a well-known snake game).
+Initially, my idea was to use AI to play this game but later on I decided that this will make a project too complicated so I decided to keep things simple
 
-The second part is to connect an artificial player which will be simulated by
-a simple NN or a simple mathematical model.
-
-And the first part of the project was finished in terms of the small university project, 
-the main idea of the pet project is to make acquaintance with some topics of Software engineering.
+As for me,the main idea around all this pet project was to get to know the concepts of Software Engineering.
 
 [//]:#
 ![video](https://thumbs.gfycat.com/BadHandmadeAntipodesgreenparakeet-size_restricted.gif)
