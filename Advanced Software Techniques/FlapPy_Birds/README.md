@@ -7,7 +7,7 @@ Initially, my idea was to use AI to play this game but later on I decided that t
 As for me, the main idea around all this pet project was to get to know the concepts of Software Engineering.
 
 [//]:#
-![video](https://thumbs.gfycat.com/BadHandmadeAntipodesgreenparakeet-size_restricted.gif)
+![video](https://media3.giphy.com/media/euuaA2cwLEUuI/giphy.gif?cid=790b76111f0c39a1c15a764ac504e97512b1d16982def664&rid=giphy.gif)
 
 ----
 
