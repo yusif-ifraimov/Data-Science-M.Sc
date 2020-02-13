@@ -1,0 +1,21 @@
+@startuml
+
+
+start
+:Launch the game;
+:Initialise the game;
+while (Quit the game) is (false)
+    :Play the FlapPy Game;
+    while(Game Over) is (false)
+    :Continue;
+    endwhile(true)
+    :Get Your Score;
+    if (New Score > Last Score) then (true)
+        :"You broke a new record!";
+    else (false)
+    endif
+endwhile(true)
+
+
+stop
+@enduml
