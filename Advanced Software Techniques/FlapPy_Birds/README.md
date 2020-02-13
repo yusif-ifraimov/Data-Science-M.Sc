@@ -57,7 +57,7 @@ To create UML diagrams I used a PlantUML plugin in PyCharm.
 
 ### 1.3. Activity diagram
 <p align="center">
-  <img src="docs/umls/activity_diagram.png">
+  <img src="https://github.com/yusif-ifraimov/Data-Science-M.Sc/blob/master/Advanced%20Software%20Techniques/FlapPy_Birds/docs/UML/flappy_bird-Activity_Diagram.png">
 </p>
 
 ## 2. Metrics
