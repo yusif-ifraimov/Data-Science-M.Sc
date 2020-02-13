@@ -1,4 +1,4 @@
-# Smake (Smart Snake or Snake-AI)
+# FlapPy Bird (A python version of Flappy Bird Game)
 
 The main idea of this project is to prove that complicated Machine Learning methods 
 and tools not always allow to reach a desired goal. 
