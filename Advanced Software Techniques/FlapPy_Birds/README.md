@@ -4,7 +4,7 @@ The main purpose of this project is to demonstrate that you can build nice games
 
 Initially, my idea was to use AI to play this game but later on I decided that this will make a project too complicated so I decided to keep things simple
 
-As for me,the main idea around all this pet project was to get to know the concepts of Software Engineering.
+As for me, the main idea around all this pet project was to get to know the concepts of Software Engineering.
 
 [//]:#
 ![video](https://thumbs.gfycat.com/BadHandmadeAntipodesgreenparakeet-size_restricted.gif)
