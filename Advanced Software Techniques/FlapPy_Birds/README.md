@@ -226,9 +226,10 @@ Gradle report usually looks like on the picture below.
 I have used PyCharm as my IDE.
 
 I used such plugins as:
-* IdeaVim (to fasten development)
-* PlantUML (to draw UML diagrams)
-* Nyan Progress Bar (because it is fun)
+* Ace Jump - to boost my productivity while writing, running and debugging codes.
+* IdeaVim - also to make development process a bit faster
+* PlantUML - to draw UML diagrams
+* Sonar Lint - to help me polish my code a little bit :)
 
 About my knowledge of vim, besides simple things from vimtutor, I can
 write a complex Macros (with usage increment and decrement), launch 
@@ -236,12 +237,12 @@ shell utils regarding to the text in the editor (for example
 to show only the 10th column of a big csv file I can do this
 `:% !colomn -c 10 -t -c,` ), operate with buffers and etc.
 
-Also I used some shortcuts in the IDE:
-* Run script (**⌘R**) (there is a conflict with vim, so it can be different from default set up)
-* Debug script (**⌘D**) (there is a conflict with vim, so it can be different from default set up)
-* Commit (**⌘K**)
-* Refactor rename (**⇧F6**)
-* Preferences.. (**⌘,**)
+Here are my most favorite shortcuts in PyCharm IDE:
+* Search everywhere (**Double ⇧**) 
+* Run Anything (**Double Ctrl**) 
+* Commit and Push (**Ctrl+Alt+K **)
+* Suggestions... (**Ctrl+⇧ Shift+A**)
+* SmartType Code Completion (**Ctrl+⇧ Shift+Space**)
 
 ## 8. DSL
 Domain Specific Language was created to control the snake. You can see
@@ -254,8 +255,8 @@ usage example below.
 Gif looks worse than an original video, so below you can find the original video
 and even an old video (one of the first attempts).
 
-Full version of the video is available [here](https://gfycat.com/ru/polishedfrigidjumpingbean) 
-and [here](https://gfycat.com/ru/adorableeminentboar).
+Full version of the video is available [here]() 
+and [here]().
 
 As you can see there is used vim navigation to control the snake
 , because I am a fan of vim. Also, there was provided opportunity to
