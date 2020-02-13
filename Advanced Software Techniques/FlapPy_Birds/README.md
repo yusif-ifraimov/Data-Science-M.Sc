@@ -226,16 +226,10 @@ Gradle report usually looks like on the picture below.
 I have used PyCharm as my IDE.
 
 I used such plugins as:
-* Ace Jump - to boost my productivity while writing, running and debugging codes.
+* Ace Jump - to boost my productivity while writing, running and debugging code.
 * IdeaVim - also to make development process a bit faster
 * PlantUML - to draw UML diagrams
 * Sonar Lint - to help me polish my code a little bit :)
-
-About my knowledge of vim, besides simple things from vimtutor, I can
-write a complex Macros (with usage increment and decrement), launch 
-shell utils regarding to the text in the editor (for example
-to show only the 10th column of a big csv file I can do this
-`:% !colomn -c 10 -t -c,` ), operate with buffers and etc.
 
 Here are my most favorite shortcuts in PyCharm IDE:
 * Search everywhere (**Double ⇧**) 
